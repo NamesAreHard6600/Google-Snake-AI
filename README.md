@@ -16,3 +16,5 @@ Its best time was a 25:245, at the time of writing this, 2.5 seconds faster than
 
 ### TODO:
 1. Add a requirements.txt
+2. Auto Detect the Window (I've done this for later projects, this was my first google AI)
+3. Make the code and constants cleaner
